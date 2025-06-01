@@ -1,3 +1,40 @@
+Launch:
+
+1.Go to @BotFather.
+
+Send the command: /newbot
+
+Enter a name and username (e.g. SneakerDropBot)
+
+Copy the API Token - it will look like this: 123456789:ABCdefGhIjklMnopQRStuvWxyz
+
+2.Install Python and dependencies If you are using Windows/macOS/Linux:
+
+pip install aiogram python-dotenv
+
+Create an .env file next to the script and paste in there:
+
+BOT_TOKEN=123456789:ABCdefGhIjklMnopQRStuvWxyz ADMIN_ID=your_numeric_Telegram_ID
+
+👉 You can find out your Telegram ID via @userinfobot 3.Save the script and run Open a code editor (e.g. VSCode or regular notepad) Paste the contents of the Bot Script file.
+
+Name the file, for example: bot.py
+
+Run:
+
+python bot.py
+
+4.Check in Telegram Find your bot by username.
+
+Click Start
+
+Test “View Sneakers” buttons, place an order - you will receive a notification in Telegram
+
+Translated with DeepL.com (free version)
+
+
+
+
 Запуск:
 
 1.Перейди в @BotFather
